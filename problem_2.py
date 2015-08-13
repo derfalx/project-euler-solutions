@@ -18,4 +18,4 @@ while fiba < 4000000:
     fiba = fibb
     fibb = tmp + fiba
 
-print (sum)
+print(sum)
